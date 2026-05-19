@@ -20,10 +20,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/safayasmin/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/safayasmin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/safayasmin/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/safayasmin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/safayasmin/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/safayasmin/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
