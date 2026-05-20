@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/safayasmin/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [1952-three-divisors](https://github.com/safayasmin/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/safayasmin/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Enumeration
