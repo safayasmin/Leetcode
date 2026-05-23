@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/safayasmin/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/safayasmin/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/safayasmin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/safayasmin/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -36,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/safayasmin/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/safayasmin/Leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
