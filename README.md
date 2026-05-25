@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/safayasmin/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/safayasmin/Leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/safayasmin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
