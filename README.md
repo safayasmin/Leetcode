@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/safayasmin/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/safayasmin/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [1470-shuffle-the-array](https://github.com/safayasmin/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/safayasmin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/safayasmin/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## String
