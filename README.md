@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/safayasmin/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/safayasmin/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/safayasmin/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/safayasmin/Leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
