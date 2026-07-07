@@ -4,12 +4,11 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-    if (s.length !== t.length) {
-        return false;
-    }
-
-    s = s.split("").sort().join("");
-    t = t.split("").sort().join("");
-
-    return s === t;
+   var res1=s.split("").sort().join("");
+   var res2=t.split("").sort().join("");
+   if(res1===res2){
+    return true;
+   }else{
+    return false;
+   }
 };
