@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/safayasmin/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/safayasmin/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0704-binary-search](https://github.com/safayasmin/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/safayasmin/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1470-shuffle-the-array](https://github.com/safayasmin/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/safayasmin/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/safayasmin/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0704-binary-search](https://github.com/safayasmin/Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
