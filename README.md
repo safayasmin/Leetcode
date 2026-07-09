@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/safayasmin/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/safayasmin/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0326-power-of-three](https://github.com/safayasmin/Leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1952-three-divisors](https://github.com/safayasmin/Leetcode/tree/main/1952-three-divisors/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/safayasmin/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Enumeration
@@ -67,4 +68,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/safayasmin/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/safayasmin/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/safayasmin/Leetcode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
